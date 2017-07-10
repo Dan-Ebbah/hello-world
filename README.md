@@ -1,2 +1,2 @@
 # hello-world
-New amd testing Github
+New and testing Github
